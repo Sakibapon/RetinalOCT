@@ -1,6 +1,6 @@
 # RetinalOCT
 
-Paper -  <a href= www.google.com target= "_blank" >Demystifying  Deep Learning Models for Retinal OCT Disease Classification using Explainable AI</a>
+Paper -  <a href= "https://ieeexplore.ieee.org/document/9718400" target= "_blank" >Demystifying  Deep Learning Models for Retinal OCT Disease Classification using Explainable AI</a>
 
 @INPROCEEDINGS{9718400,
   author={Apon, Tasnim Sakib and Hasan, Mohammad Mahmudul and Islam, Abrar and Alam, Md. Golam Rabiul},
